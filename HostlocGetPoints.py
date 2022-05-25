@@ -13,7 +13,7 @@ class HostlocGetPoints():
 
     tg_text = ''
 
-    # 随机生成用户空间链接
+    # 随机生成用户空间链接11
     def randomly_gen_uspace_url(self) -> list:
         url_list = []
         # 访问小黑屋用户空间不会获得积分、生成的随机数可能会重复，这里多生成几个链接用作冗余
